@@ -22,7 +22,7 @@
               </h2>
             </div>
             <p>
-              Welcome to Foodie, where passion for Italian cuisine meets the convenience of fast food. At Foodie, we believe in serving up delicious dishes inspired by Italy's rich culinary heritage, all with a commitment to quality and flavor. Whether you're stopping by for a quick lunch or a family dinner, our menu of fresh pizzas, flavorful pastas, and signature Italian specialties promises a satisfying experience every time. Join us and taste the difference at Foodie. Buon appetito
+              Welcome to Foodie, where passion for Italian cuisine meets the convenience of fast food.At Foodie, we believe in serving up delicious dishes inspired by Italy's rich culinary heritage, all with a commitment to quality and flavor. Whether you're stopping by for a quick lunch or a family dinner, our menu of fresh pizzas, flavorful pastas, and signature Italian specialties promises a satisfying experience every time. Join us and taste the difference at Foodie. Buon appetito
             </p>
             <a href="">
               Read More
