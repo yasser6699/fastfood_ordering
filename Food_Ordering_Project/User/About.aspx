@@ -18,14 +18,11 @@
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                We Are Feane
+                We Are Foodie
               </h2>
             </div>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+              Welcome to Foodie, where passion for Italian cuisine meets the convenience of fast food. At Foodie, we believe in serving up delicious dishes inspired by Italy's rich culinary heritage, all with a commitment to quality and flavor. Whether you're stopping by for a quick lunch or a family dinner, our menu of fresh pizzas, flavorful pastas, and signature Italian specialties promises a satisfying experience every time. Join us and taste the difference at Foodie. Buon appetito
             </p>
             <a href="">
               Read More

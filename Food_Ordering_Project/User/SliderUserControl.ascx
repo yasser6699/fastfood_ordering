@@ -13,8 +13,7 @@
                       Fast Food Center
                     </h1>
                     <p>
-                      Pain, then, I will open the easy things, the convenience, the times, the wise man to the resilience of his labors, which is the source of any error. There are times when pain, toil, and pain drive back, that great man whom we think nothing of in freedom itself.
-                    </p>
+                        "Welcome to our mouthwatering world of fast food delights! Indulge in our irresistible pizzas and delectable sandwiches, crafted with the finest ingredients and bursting with flavor. Whether you're craving a cheesy slice or a hearty sandwich, our menu promises to satisfy every craving. Dive into a culinary experience that's quick, delicious, and simply unforgettable. Order now and treat yourself to a taste sensation like no other!"                    </p>
                     <div class="btn-box">
                       <a href="Menu.aspx" class="btn1">
                         Order Now
@@ -34,8 +33,7 @@
                       Fast Food Hub
                     </h1>
                     <p>
-                      Pain, then, I will open the easy things, the convenience, the times, the wise man to the resilience of his labors, which is the source of any error. There are times when pain, toil, and pain drive back, that great man whom we think nothing of in freedom itself.
-                    </p>
+                        Discover authentic Italian fast food at its finest. From mouthwatering pizzas to hearty pastas, indulge in quick, delicious meals that capture the essence of Italy.                    </p>
                     <div class="btn-box">
                       <a href="Menu.aspx" class="btn1">
                         Order Now
@@ -55,8 +53,7 @@
                       Fast Food Restaurant
                     </h1>
                     <p>
-                      Pain, then, I will open the easy things, the convenience, the times, the wise man to the resilience of his labors, which is the source of any error. There are times when pain, toil, and pain drive back, that great man whom we think nothing of in freedom itself.
-                    </p>
+                        "Welcome to our mouthwatering world of fast food delights! Indulge in our irresistible pizzas and delectable sandwiches, crafted with the finest ingredients and bursting with flavor. Whether you're craving a cheesy slice or a hearty sandwich, our menu promises to satisfy every craving. Dive into a culinary experience that's quick, delicious, and simply unforgettable. Order now and treat yourself to a taste sensation like no other!"                    </p>
                     <div class="btn-box">
                       <a href="Menu.aspx" class="btn1">
                         Order Now
